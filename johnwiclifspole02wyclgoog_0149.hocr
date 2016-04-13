@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./johnwiclifspole02wyclgoog/johnwiclifspole02wyclgoog_0149.png"; bbox 0 0 3260 5136; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 641 1764 716 1848">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 641 1764 716 1848">
+     <span class='ocr_line' id='line_1_1' title="bbox 641 1764 716 1848; baseline -0.013 0"><span class='ocrx_word' id='word_1_1' title='bbox 641 1764 716 1848; x_wconf 86' lang='lat' dir='ltr'><strong>XX.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 219 2045 1170 2175">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 219 2045 1170 2175">
+     <span class='ocr_line' id='line_1_2' title="bbox 219 2045 1170 2175; baseline -0.004 0"><span class='ocrx_word' id='word_1_2' title='bbox 219 2047 318 2175; x_wconf 87' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 364 2045 774 2174; x_wconf 80' lang='lat' dir='ltr'><strong>RELIGIONE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 813 2045 1170 2172; x_wconf 76' lang='lat' dir='ltr'><strong>PRIVATA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 444 2319 912 2395">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 444 2319 912 2395">
+     <span class='ocr_line' id='line_1_3' title="bbox 444 2319 912 2395; baseline 0 -3"><span class='ocrx_word' id='word_1_5' title='bbox 444 2319 721 2395; x_wconf 71' lang='lat' dir='ltr'>TRAGTATUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 748 2320 912 2394; x_wconf 79' lang='lat' dir='ltr'><strong>ALTER.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1634 5136">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1634 5136">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1634 5136; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1634 5136; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
